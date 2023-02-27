@@ -34,6 +34,7 @@ class Clock extends React.Component{
 				<h1 className="heading">
 					<span className="text">{date.toLocaleTimeString(locale)}</span>
 				</h1>
+				<h2>Something</h2>
 
 				<button type="button" onClick={this.something.bind(this)}>Click Me</button>
 			</>
