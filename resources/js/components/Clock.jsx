@@ -40,7 +40,7 @@ class Clock extends React.Component{
 				<h1>Hello World</h1>
 				<h2>This is Hello World 2</h2>
 
-				 dfhtfjudtydukyj
+				<h1>This is sojib khan</h1>
 			</>
 		)
 	}
