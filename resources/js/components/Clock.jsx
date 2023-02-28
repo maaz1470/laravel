@@ -36,7 +36,6 @@ class Clock extends React.Component{
 				</h1>
 
 				<button type="button" onClick={this.something.bind(this)}>Click Me</button>
-				<h1>Hello World</h1>
 			</>
 		)
 	}
